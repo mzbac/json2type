@@ -2,12 +2,13 @@
   "name": "json2type",
   "displayName": "json2type",
   "description": "Generate TypeScript types from JSON data in Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/mzbac/json2type.git"
   },
   "publisher": "mzbac",
+  "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.76.0"
   },
